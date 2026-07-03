@@ -38,4 +38,4 @@ An ambitious 3rd-year Medical Laboratory Technologies student at Mazaya Universi
 ## 📬 Connect With Me
 * **Email:** [rio81x@gmail.com](mailto:rio81x@gmail.com)
 * **Platform:** [smarticle.tech](https://smarticle.tech)
-* **LinkedIn:** [Your LinkedIn Profile Link]
+* **LinkedIn:** [www.linkedin.com/in/riyad-ali-939914415]
