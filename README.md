@@ -19,7 +19,7 @@ An ambitious 3rd-year Medical Laboratory Technologies student at Mazaya Universi
  * **Infrastructure & Optimization:** Cloud Execution Environments (Google Colab, AI Studio), Cloudflare, Advanced SEO, and Web Platform Management.
  * **Languages:** Arabic (Native), English (Advanced technical and scientific literature review/translation).
 ## 📜 Certifications & Education
- * **B.Sc. in Medical Laboratory Technologies (4rd Year)** – Mazaya University College (2023 - Present).
+ * **B.Sc. in Medical Laboratory Technologies (4th Year)** – Mazaya University College (2023 - Present).
  * **Elements of AI Certification** – University of Helsinki & MinnaLearn (June 2026) | Academically accredited course covering neural networks, machine learning architectures, and the social/clinical implications of AI.
  * **Academic & Clinical Laboratory Training** – Hospital-based Internship (Summer 2025) | Applied focus on the biological sample lifecycle, data validation, and clinical biosafety.
 ## 📬 Connect With Me
