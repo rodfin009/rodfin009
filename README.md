@@ -24,5 +24,5 @@ An ambitious 4th-year Medical Laboratory Technologies student at Mazaya Universi
  * **Academic & Clinical Laboratory Training** – Hospital-based Internship (Summer 2025) | Applied focus on the biological sample lifecycle, data validation, and clinical biosafety.
 ## 📬 Connect With Me
  * **Email:** rio81x@gmail.com
- * **LinkedIn:** linkedin.com/in/riyad-ali-939914415
+ * **LinkedIn:** www.linkedin.com/in/riyad-ali-939914415
  * **Platform:** smarticle.tech
