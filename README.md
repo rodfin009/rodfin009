@@ -11,7 +11,7 @@ An ambitious 4th-year Medical Laboratory Technologies student at Mazaya Universi
  * **Role:** Founder & Technical Developer
  * **Core Focus:** Built and managed an encyclopedic platform dedicated to publishing peer-reviewed scientific articles in both Arabic and English.
  * **Key Responsibilities:** Full-stack web optimization, technical infrastructure deployment, advanced Search Engine Optimization (SEO) strategies, and the design of agentic AI orchestration workflows for research summarization.
- * **Project Account:** You can view our open definitions and organization assets here: @smarticle-tech
+ * **Project Account:** You can view our open definitions and organization assets here: https://github.com/smarticle-tech
 ## 🛠️ Technical & Clinical Stack
  * **AI & Deep Learning:** PyTorch, Computer Vision, Transfer Learning (EfficientNet, ResNet), Explainable AI (Grad-CAM), Advanced Prompt Engineering.
  * **Backend & MLOps:** FastAPI, Docker, REST APIs, Microservices Architecture, Python (Pandas, NumPy, OpenCV).
