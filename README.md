@@ -1,7 +1,7 @@
 # Hi there, I'm Riyad Ali Jawad 👋
 **Digital Health Analyst | Healthcare AI & Software Integration Specialist**
 ## 👤 Professional Summary
-An ambitious 3rd-year Medical Laboratory Technologies student at Mazaya University College and the founder of Smarticle, a bilingual scientific research encyclopedia. I bridge the gap between clinical laboratory diagnostics and scalable Machine Learning systems. Certified in the fundamentals of Artificial Intelligence by the University of Helsinki, my expertise spans building robust deep learning pipelines, developing high-performance medical APIs, and optimizing digital health products for production environments.
+An ambitious 4th-year Medical Laboratory Technologies student at Mazaya University College and the founder of Smarticle, a bilingual scientific research encyclopedia. I bridge the gap between clinical laboratory diagnostics and scalable Machine Learning systems. Certified in the fundamentals of Artificial Intelligence by the University of Helsinki, my expertise spans building robust deep learning pipelines, developing high-performance medical APIs, and optimizing digital health products for production environments.
 ## 🚀 Core Ventures & Production Projects
 ### **CytoMorph-XAI** (Repository)
  * **Role:** Lead AI Engineer & System Architect
